@@ -11,7 +11,7 @@ O nosso desafio consiste de dois entregáveis:
 
 Nossas premissas funcionais:
 
-* o visual deve refletir o que está no Figma
+* o visual deve ser fiel ao [protótipo](./assets/landing-page.png)
 * deve ser responsivo
 * o endereço deve ser autocompletado a partir do CEP, utilizando o viaCEP (https://viacep.com.br/)
 * todos os campos dos formulários, com exceção do complemento, são obrigatórios
@@ -23,6 +23,11 @@ Já nossas premissas técnicas são:
 * utilizar Sass
 * criação de testes utilizando o [Jest](https://jestjs.io)
 * hospedar a aplicação no [Vercel](https://vercel.com) ou [Github Pages](https://pages.github.com), ou plataforma semelhante
+
+Agora o que está fora do escopo:
+
+* Os textos do protótipo são apenas "placeholders", e podem ser mantidos ou deixando com "lorem ipsum", a exceção são os campos do cadastro
+* Não é necessário criar um back-end
 
 ## Diferenciais
 
